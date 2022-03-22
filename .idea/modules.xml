@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/DataSpellProjects/dsProject/.idea/dsProject.iml" filepath="$USER_HOME$/DataSpellProjects/dsProject/.idea/dsProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/workspace.iml" filepath="$PROJECT_DIR$/.idea/workspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../../../../Проект классификация обращений/.idea/Проект классификация обращений.iml" filepath="$PROJECT_DIR$/../../../../../../../../Проект классификация обращений/.idea/Проект классификация обращений.iml" />
+    </modules>
+  </component>
+</project>
